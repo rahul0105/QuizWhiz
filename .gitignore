@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/CHALLENGE.md
+/src-no-context
+/src/challange
 
 # testing
 /coverage

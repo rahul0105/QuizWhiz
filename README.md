@@ -1,3 +1,14 @@
+# About this APP
+Created the Quiz app using React.
+
+Quiz app have 15 question to answer. It have progress bar to see your progress. 
+It have also time limit of 7:30 mins to complete all the 15 Question. (30sec per question)
+
+# concept use In this APP
+Uses the concept API to prevent prop drilling.
+User useReducer() to manage complex state. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +16,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run server`
+
+Runs the api to get the questions.
 
 ### `npm start`
 
